@@ -1,0 +1,1 @@
+ent.write('This is my first JavaScript page')
